@@ -5,8 +5,10 @@
  * Licensed under the MIT License.
  */
 
-module.exports = randomNumber
+const converter = require('convert-string-to-number')
 
 const randomNumber = (firstNumber, secondNumber) => {
   return Math.floor(Math.random() * secondNumber) + firstNumber
 }
+
+module.exports = randomNumber
