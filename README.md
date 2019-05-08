@@ -4,6 +4,9 @@ This package returns a random number between two given numbers
 ## Installation
 `$ npm install random-number-CMD-BE`
 
+## Dependencies
+* [Convert string to number - ^1.0.3](https://www.npmjs.com/package/convert-string-to-number)
+
 ## Usage
 #### Without the use of convert-string-to-number
 `const randomNumber = require('random-number-CMD-BE')
