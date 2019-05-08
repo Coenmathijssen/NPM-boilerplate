@@ -1,0 +1,34 @@
+{
+  "name": "random-number",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Coenmathijssen",
+  "description": "This package will return a random number between two given numbers",
+  "contributors": [ "Coen Mathijssen  <mathijssen.coen@gmail.com> (https://github.com/Coenmathijssen)" ],
+  "bugs": { "url": "" },
+  "scripts": {
+    "test": "scripts/test",
+    "prepublish": "scripts/prepublish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apiaryio/npm-boilerplate"
+  },
+  "dependencies": {
+    "convert-string-to-number": "^1.0.3"
+  },
+  "devDependencies": {
+    ""
+  },
+  "keywords": [
+    "npm",
+    "boilerplate",
+    "random number",
+    "number between two numbers"
+  ],
+  "repository": "",
+  "author": "Coen Mathijssen <coenmathijssen.nl>",
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://opensource.org/licenses/MIT"
+  }]
+}
