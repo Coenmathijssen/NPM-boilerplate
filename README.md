@@ -23,4 +23,4 @@ randomNumber(converter('10'), converter('15'))
 `const randomNumber = require('random-number-CMD-BE')`
 
 ## License
-This package is licensed under the [MIT license](https://github.com/Coenmathijssen/NPM-boilerplate/blob/master/LICENSE) © [Coen Mathijssen](www.coenmathijssen.nl)
+This package is licensed under the [MIT license](https://github.com/Coenmathijssen/NPM-boilerplate/blob/master/LICENSE) © [Coen Mathijssen](https://www.coenmathijssen.nl/)
